@@ -13,15 +13,15 @@ sidebar:
   avatar: miku.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: supercoko@126.com
+  email: testdata@gmail.com
   phone: 
-  wechat: wslsp233
+  wechat: testdata
   timezone: Asia/Shanghai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
-  github: supercoko
+  github:
   # telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -48,18 +48,14 @@ sidebar:
   #     level: Professional
 
   interests:
-    title: Interests
+    title: 兴趣爱好
     info:
-    - item: MMD
-      link:
-
-
-    - item: Blender
-      link:
+    - item: MMD & Blender
+      link: https://space.bilibili.com/1963386
 
 
     - item: Anime
-      link:
+      link: 
 
 
 # career-profile:
@@ -102,15 +98,35 @@ experiences:
   info:
   - role: 游戏测试工程师
     time: 2023 - 至今
-    company: 叠纸
+    company: Paper
     details: |
-      负责游戏测试工作，主要包括功能测试、自动化测试。参与多个项目的测试工作，确保游戏质量和用户体验。同时开发工具来提高测试效率和准确性。
-      - 系统功能测试
-      - 战斗测试
-      - QA网站搭建
-      - 网站工具搭建
-      - 
+      主要职责（目前为deepseek生成）
+      - 负责 ​​手游/端游​​ 的功能测试、兼容性测试、性能测试，确保游戏版本质量达标。
+      - 编写并执行 ​​测试用例​​（Test Cases），使用 ​​JIRA/Tapd​​ 提交和管理缺陷（Bug Tracking），推动开发团队修复关键问题。
+      - 参与 ​​自动化测试​​ 开发（如 Appium/Pytest），优化回归测试效率，减少 30% 手动测试时间。
+      - 针对 ​​游戏玩法、UI交互、网络延迟、多设备适配​​ 等问题进行专项测试，提出优化建议。
+      - 协调 ​​策划、程序、美术​​ 团队复现复杂 Bug，跟踪问题闭环，确保版本按时交付。
+      - 使用 ​​Charles/Fiddler​​ 抓包分析接口数据，定位网络同步或数据异常问题。
  
+skills:
+  title: 技能
+  contributions:
+  - title: 测试工具
+    link: "#"
+    tagline: "Teambition、Postman、JMeter、Selenium"
+
+  - title: 自动化
+    link: "#"
+    tagline: "Airtest、Poco"
+
+  - title: 游戏引擎
+    link: "#"
+    tagline: "TUnreal 5"
+
+  - title: 网站开发
+    link: "#"
+    tagline: "Python、Flask、Vue、Typescript、HTML5、CSS"
+
 
 # certifications:
 #   title: Certifications
