@@ -4,20 +4,20 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: COKO
-  tagline: 
+  tagline: 游戏测试，工具开发
   avatar: miku.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: supercoko@126.com
-  phone: 15630938058
+  微信: wslsp233
   timezone: Asia/Shanghai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://supercoko.github.io # Include the full website URL, including "http://" or "https://".
+  website: # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
   github: supercoko
@@ -61,15 +61,15 @@ sidebar:
       link:
 
 
-career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+# career-profile:
+#   title: 职业概况
+#   summary: |
+#     Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#     adipiscing elit. You can [download this free resume/CV template here]().
+#     Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#     Donec quam felis, ultricies nec, pellentesque eu.
+#     Second paragraph if required.
 education:
   title: 教育背景
   info:
@@ -97,45 +97,14 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: 工作经历
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: 游戏测试工程师
+    time: 2023 - 至今
+    company: 叠纸
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      负责游戏测试工作，主要包括功能测试、性能测试和兼容性测试等。参与多个项目的测试工作，确保游戏质量和用户体验。同时开发工具来提高测试效率和准确性。
+ 
 
 certifications:
   title: Certifications
@@ -281,6 +250,3 @@ skills:
 
   - name: Sketch & Photoshop
     level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
