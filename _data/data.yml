@@ -108,7 +108,7 @@ experiences:
       - 协调 ​​策划、程序、美术​​ 团队复现复杂 Bug，跟踪问题闭环，确保版本按时交付。
       - 使用 ​​Charles/Fiddler​​ 抓包分析接口数据，定位网络同步或数据异常问题。
  
-skills:
+oss:
   title: 技能
   contributions:
   - title: 测试工具
