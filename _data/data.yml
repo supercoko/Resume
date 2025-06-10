@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: COKO
   tagline: 
-  avatar: miku.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: miku.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: supercoko@126.com
